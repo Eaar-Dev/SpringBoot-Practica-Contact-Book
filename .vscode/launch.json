@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringContactBookApplication<spring-contact-book>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "contact.book.spring_contact_book.SpringContactBookApplication",
+            "projectName": "spring-contact-book",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
